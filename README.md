@@ -3,7 +3,7 @@ Multi-Threaded prime calculator in C
 By Sylvain Jones
 
 # How to compile
-`git clone https://github.com/Hashfastr/MultiPrime`
+`git clone https://github.com/Hashfastr/MultiPrime` <br>
 `make`
 
 # How to run
